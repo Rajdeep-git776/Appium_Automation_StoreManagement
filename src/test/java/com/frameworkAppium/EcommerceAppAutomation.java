@@ -1,6 +1,5 @@
 package com.frameworkAppium;
 import com.frameworkAppium.testUtils.BaseTest;
-import io.appium.java_client.AppiumBy;
 import org.appium.pageobjects.android.CartPage;
 import org.appium.pageobjects.android.FormPage;
 
